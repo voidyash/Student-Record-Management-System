@@ -1,0 +1,23 @@
+﻿  Source.cpp
+Z:\coding journey\Student Record Management System\adminFunction.h(161,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+Z:\coding journey\Student Record Management System\adminFunction.h(140,13): warning C4101: 'new_marks': unreferenced local variable
+  (compiling source file 'Source.cpp')
+  
+Z:\coding journey\Student Record Management System\adminFunction.h(140,6): warning C4101: 'index': unreferenced local variable
+  (compiling source file 'Source.cpp')
+  
+Z:\coding journey\Student Record Management System\adminFunction.h(139,7): warning C4101: 'sub': unreferenced local variable
+  (compiling source file 'Source.cpp')
+  
+Z:\coding journey\Student Record Management System\adminFunction.h(138,22): warning C4101: 'marks': unreferenced local variable
+  (compiling source file 'Source.cpp')
+  
+Z:\coding journey\Student Record Management System\loading.h(9,11): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Source.cpp')
+  
+Z:\coding journey\Student Record Management System\loading.h(9,20): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Source.cpp')
+  
+  Student Record Management System.vcxproj -> Z:\coding journey\Student Record Management System\x64\Debug\Student Record Management System.exe
